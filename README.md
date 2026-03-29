@@ -11,14 +11,11 @@ I am a second-year BTech student at IIT Kharagpur bridging first-principles scie
 ### 🌐 Socials:
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+  <a href="https://linkedin.com/in/saksham-pal-939180325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE" target="_blank">
+  <a href="https://codeforces.com/profile/UnFazed_" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -49,9 +46,9 @@ I am a second-year BTech student at IIT Kharagpur bridging first-principles scie
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-596&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-596&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
