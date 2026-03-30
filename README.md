@@ -2,7 +2,7 @@
 
 I am a second-year BTech student at IIT Kharagpur bridging first-principles science with high-performance software engineering. My focus is on building full-stack data systems, applying Machine Learning to biological problems, and algorithmic optimization. 
 
-- 🔭 Currently working on: **Bio-Twin (Hybrid Physics-ML Engine)**
+- 🔭 **Wrapped up two project recently trying some new ideas right now
 - ⚡ Competitive Programming: **Codeforces Rating 1626**
 - 📫 Reach me at: **palsaksham025.24@kgpian.iitkgp.ac.in**
 
